@@ -66,18 +66,6 @@ Gender cues modestly influence candidate rankings, highlighting the need for lar
 
 ---
 
-## **Repo Structure**
-
-```
-data/              # reconstructed résumé datasets
-scripts/           # prompting, aggregation, and analysis scripts
-results/           # model outputs and correlation tables
-figures/           # heatmaps and summary visuals
-paper/             # LaTeX report and supporting files
-```
-
----
-
 ## **Team**
 
 **Rebecca Glick** · **Leo Liu** · **Nirvan Shukla**
